@@ -4,7 +4,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Tanveer's Profile Picture" width="300" style="border-radius:50%;"/>
+  <img src="https://github.com/tanveera2001/tanveera2001/blob/main/public/tanveer.JPG" alt="Tanveer's Profile Picture" width="300" style="border-radius:50%;"/>
 </p>
 
 <!-- Social Badges -->
