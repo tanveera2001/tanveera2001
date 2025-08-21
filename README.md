@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/md-tanveer-ahmed-23b06023b/" target="_new">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/YOUR-SO-ID" target="_blank">
+  <a href="https://stackoverflow.com/users/20884813/md-tanveer-ahmed" target="_blank">
     <img src="https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
   <a href="mailto:tanveera2001@gmail.com" target="_blank">
