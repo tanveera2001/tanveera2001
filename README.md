@@ -15,7 +15,7 @@
   <a href="https://stackoverflow.com/users/YOUR-SO-ID" target="_blank">
     <img src="https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-  <a href="tanveera2001@gmail.com" target="_blank">
+  <a href="mailto:tanveera2001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
