@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">★彡 ʜɪ, ɪ'ᴍ ᴀɴᴋᴜʀ 彡★</h1>
+<h1 align="center">★彡 ʜɪ, ɪ'ᴍ TANVEER 彡★</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a> ·
