@@ -1,10 +1,22 @@
 <!-- Profile Header -->
-<h1 align="center">★彡 ʜɪ, ɪ'ᴍ TANVEER 彡★</h1>
+<h1 align="center">★彡 ʜɪ, ɪ'ᴍ ᴛᴀɴᴠᴇᴇʀ 彡★</h1>
 
+<!-- Profile Image -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a> ·
-  <a href="https://stackoverflow.com/users/YOUR-SO-ID" target="_blank">Stack Overflow</a> ·
-  <a href="mailto:your.name@gmail.com" target="_blank">Gmail</a>
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Ankur's Profile Picture" width="300" style="border-radius:50%;"/>
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/YOUR-SO-ID" target="_blank">
+    <img src="https://img.shields.io/badge/Stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="mailto:your.name@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
