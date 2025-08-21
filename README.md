@@ -9,7 +9,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-tanveer-ahmed-23b06023b/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-tanveer-ahmed-23b06023b/" target="_new">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://stackoverflow.com/users/YOUR-SO-ID" target="_blank">
