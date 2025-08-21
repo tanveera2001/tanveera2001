@@ -4,7 +4,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://github.com/tanveera2001/tanveera2001/blob/main/public/myphoto-removebg-preview1.png" alt="Tanveer's Profile Picture" width="300" style="border-radius:50%;"/>
+  <img src="https://github.com/tanveera2001/tanveera2001/blob/main/public/tanveer.png" alt="Tanveer's Profile Picture" width="300" style="border-radius:50%;"/>
 </p>
 
 <!-- Social Badges -->
