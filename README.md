@@ -1,9 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">★彡 ʜɪ, ɪ'ᴍ ᴛᴀɴᴠᴇᴇʀ 彡★</h1>
 
+
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Ankur's Profile Picture" width="300" style="border-radius:50%;"/>
+  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" alt="Tanveer's Profile Picture" width="300" style="border-radius:50%;"/>
 </p>
 
 <!-- Social Badges -->
