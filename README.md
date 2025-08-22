@@ -42,8 +42,8 @@ I’m a determined, extroverted person full of enthusiasm. I enjoy working hard 
 ## Technologies
 
 > 🎶 **NOTE**  
-> The technologies mentioned in the table are the ones I have professional experience with.  
-> They are sorted **left → right** in order of experience.
+> The technologies listed in the table are those I have used at least once and have also applied in projects. 
+> They are arranged from **left → right** according to my proficiency in using them.
 
 | Stack | Technologies |
 | :-- | :-- |
