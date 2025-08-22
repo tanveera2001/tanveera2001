@@ -12,11 +12,11 @@
   <a href="https://www.linkedin.com/in/md-tanveer-ahmed-23b06023b/" target="_new">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+   <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-F48024?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio"/>
+  </a>
   <a href="mailto:tanveera2001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-0077B5?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio"/>
   </a>
 </p>
 
@@ -31,6 +31,10 @@
 
 ## About
 I’m a determined, extroverted person full of enthusiasm. I enjoy working hard and collaborating with others. I am currently studying Computer Science and Engineering (CSE) at North South University. Additionally, I have three years of experience in web development. My goal is to improve my technical and communication skills continually.
+
+<a href="https://your-portfolio-url.com" target="_blank"> 
+  <img src="https://img.shields.io/badge/My%20Portfolio-0077B5?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio"/> 
+</a>
 
 
 ---
