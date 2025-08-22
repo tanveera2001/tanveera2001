@@ -34,7 +34,7 @@ I’m a determined, extroverted person full of enthusiasm. I enjoy working hard 
 
 <p>
   <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Checkout%20My%20Portfolio-0077B5?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-0077B5?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio"/>
   </a>
 </p>
 
