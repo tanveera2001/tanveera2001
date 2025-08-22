@@ -30,7 +30,7 @@
 ---
 
 ## About
-I am an extroverted individual who is full of energy and determination. I enjoy working hard and collaborating with others. Currently, I am employed at **Prisma** as a **Developer Advocate**. My previous experience includes working as a **Full Stack Software Developer**. My goal is to constantly enhance my communication and technical abilities.
+I’m a determined, extroverted person full of enthusiasm. I enjoy working hard and collaborating with others. I am currently studying **Computer Science and Engineering (CSE)** at North South University. Additionally, I have three years of experience in **web development**. My goal is to continually improve my technical and communication skills.
 
 👉 **[Checkout my portfolio](https://your-portfolio-url.com)**
 
