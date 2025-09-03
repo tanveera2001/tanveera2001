@@ -30,7 +30,7 @@
 ---
 
 ## About
-I’m a determined, extroverted person full of enthusiasm. I enjoy working hard and collaborating with others. I am currently studying Computer Science and Engineering (CSE) at North South University. Additionally, I have three years of experience in web development. My goal is to improve my technical and communication skills continually.
+I am a third-year Computer Science and Engineering (CSE) student at North South University with three years of experience in web development. I am focused on continuously improving my technical expertise and communication skills, with a strong interest in building scalable and efficient web applications.
 
 <a href="https://your-portfolio-url.com" target="_blank"> 
   <img src="https://img.shields.io/badge/My%20Portfolio-0077B5?style=for-the-badge&logo=appveyor&logoColor=white" alt="My Portfolio"/> 
