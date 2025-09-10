@@ -59,8 +59,7 @@ I am a third-year Computer Science and Engineering (CSE) student at North South 
 
 | Degree | Timeline | Institution | Skills Gained | Extras |
 | :-- | :-- | :-- | :-- | :-- |
-| **Bachelor's in Computer Science** with **CGPA 3.95/4.0** | Jan 2017 – Sep 2021 | Independent University, Bangladesh | C++ · Java · PHP · TensorFlow · MySQL · Python | I learned how to pick up new skills in a short span of time and under pressure. I practiced the art of translating theory into practice. |
-| **Erasmus+ Exchange (24 ECTS)** | Feb 2019 – Jun 2019 | University of Maribor | Laravel · Node.js · OpenCV · Jupyter Notebook · Python | I learnt to adapt to a new environment, interact and work with people from different cultures. The most important skill I picked up was to break out of my comfort zone. |
+| **Bachelor's in Computer Science** | Jan 2023 – current | North South University, Bangladesh | C · C++ · Java · PHP · MySQL | Currently developing strong programming foundations and learning how to pick up new skills in a short span of time and under pressure. |
 
 ---
 
