@@ -9,7 +9,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-tanveer-ahmed-23b06023b/" target="_new">
+  <a href="https://www.linkedin.com/in/tanveerahmed22/" target="_new">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
    <a href="https://tanveer-ahmed.vercel.app" target="_blank">
@@ -65,8 +65,8 @@ I am a third-year Computer Science and Engineering (CSE) student at North South 
 
 <!-- Quick Badges (optional). Replace links as needed. -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/tanveerahmed22/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
   <a href="https://stackoverflow.com/users/YOUR-SO-ID"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?logo=stackoverflow&logoColor=white"></a>
-  <a href="mailto:your.name@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio-url.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0A66C2"></a>
+  <a href="mailto:tanveera2001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"></a>
+  <a href="https://tanveer-ahmed.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0A66C2"></a>
 </p>
